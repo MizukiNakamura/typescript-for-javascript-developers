@@ -19,6 +19,7 @@
   "homepage": "https://github.com/MizukiNakamura/typescript-for-javascript-developers#readme",
   "devDependencies": {
     "ts-node": "^10.7.0",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.6.3"
   }
 }
